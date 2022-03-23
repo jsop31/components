@@ -1,1 +1,1 @@
-Component v1.0
+Component C v1.0
