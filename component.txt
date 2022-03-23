@@ -1,1 +1,1 @@
-Component B v1.0
+Component B v2.0
