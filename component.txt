@@ -1,1 +1,1 @@
-Component v1.0
+Component A v1.0
